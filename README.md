@@ -3,8 +3,7 @@ Tech Fest
 
 College Event Website
 
-Live Demo
-https://github.com/tanvigoyal6799/html-website/settings/pages
+
 
 Features
 Home/Landing Page:
