@@ -33,21 +33,6 @@ HTML: For the structure of the website.
 CSS: For styling and layout design.
 
 
-
-
-Screenshots
-Home Page
-![image](https://github.com/user-attachments/assets/9dc66c94-80c5-4602-83ee-3faae5d8eecc)
-
-Event Details Page
-![image](https://github.com/user-attachments/assets/7ba331b4-562a-4690-9fdb-155e1ec014a9)
-
-Registration Form
-![image](https://github.com/user-attachments/assets/8ff1e97d-56dc-48c5-b019-8843168d30ad)
-
-Contact Page
-![image](https://github.com/user-attachments/assets/dcc9cae9-0430-4016-9303-853e517a1148)
-
 Challenges Faced
 Responsive Design:
 Ensuring compatibility across different screen sizes required extensive testing using media queries.
